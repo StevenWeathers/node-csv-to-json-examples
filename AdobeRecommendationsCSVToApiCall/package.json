@@ -1,0 +1,15 @@
+{
+  "name": "rec-api",
+  "version": "0.0.0",
+  "description": "Script to parse custom recs csv file and send to Adobe Recommendations API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Weathers",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "request": "^2.45.0",
+    "csv-parse": "0.0.6"
+  }
+}
